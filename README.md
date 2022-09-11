@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nitik1008
-- 👀 I’m interested in Quantum physics 
 - 🌱 I’m currently learning Reactjs.
 - 👁 I like to discover new technologies and learn about them.
 
