@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitik1008
 - 🌱 I’m currently learning Reactjs.
-- 👁 I like to discover new technologies and learn about them.
+- 👁 I like to discover new technologies and learn them.
 
 <!---
 nitik1008/nitik1008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
